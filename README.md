@@ -17,3 +17,7 @@ Tin Manojlovic | Tin.Manojlovic@fer.hr | 0036523347 | 111
 | F03 | Slanje i primanje tekstualnih poruka | Sustav će omogućiti korisnicima slanje i primanje tekstualnih poruka u stvarnom vremenu kroz sučelje za razmjenu poruka. |
 | F04 | Stvaranje i upravljanje grupama za razmjenu poruka | Sustav će omogućiti korisnicima stvaranje i upravljanje grupama za grupnu komunikaciju. |
 | F05 | Slanje emotikona i GIF-ova u porukama | Sustav će omogućiti korisnicima dodavanje emotikona i GIF-ova u poruke putem izbornika emotikona ili direktnog unosa. |
+
+## UML dijagram stanja
+
+![UML_state_machine](https://github.com/jbadrov20/hci-razmjena-kratkih-tekstualnih-poruka/assets/83407020/4a8ef5e4-1b18-450e-a4b6-9e56b4128619)
